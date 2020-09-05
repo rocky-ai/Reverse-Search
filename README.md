@@ -4,7 +4,7 @@
 
 2>g++ -o Try3 Try2.cpp
 
-3>After this step Try exe file will be generated and we can run the exe file just by writing try.exe
+3>After this step Try3 exe file will be generated and we can run the exe file just by writing try.exe
 
 4>Then give input of node number from keyboard and the output will be the word corresponding to it.
 
